@@ -39,5 +39,5 @@ public class MainActivity extends Activity {
     final EditText TxNombre = (EditText) this.findViewById(R.id.TxNombre);
     final EditText TxApellido = (EditText) this.findViewById(R.id.TxApellido);
     final Button BtnDatos = (Button) this.findViewById(R.id.BtnDatos);
-
+//pruebaaa
 }
