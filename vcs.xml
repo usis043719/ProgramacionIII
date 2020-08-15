@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/usis043719/Calculadora_ProIII.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="usis043719" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Usuario\AndroidStudioProjects" />
